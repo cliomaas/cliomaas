@@ -1,4 +1,6 @@
-### Hi there 👋
+Hey, everyone! I'm clio. 👋
+
+I'm Brazilian, currently studying Internet Systems. Crazy about UX/UI. 
 
 <!--
 **cliomaas/cliomaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cliomaas)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cliomaas&theme=buefy&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliomaas&layout=default" />
+</a>
+
