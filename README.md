@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [UP!](https://github.com/cliomaas/gs_up)
+- 🔭 I’m currently working on [CuidaSampa](https://gs-2021-g6.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://cliomaas.github.io/](https://cliomaas.github.io/)
 
