@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working at [Loggi](https://www.loggi.com/)
+- 🔭 I’m currently working at [Mercado Livre](https://www.mercadolivre.com.br/)
 
-- 👨‍💻 All of my projects are available at [https://cliomaas.github.io/](https://cliomaas.github.io/)
+- 👨‍💻 Checkout my [profissional profile!](https://github.com/cmaas-meli)
 
 - 📫 How to reach me **cliomaas@gmail.com**
 
