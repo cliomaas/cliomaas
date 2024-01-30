@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clio Maas</h1>
-<h3 align="center">Internet Systems student, always looking for new challenges. Crazy about UX/UI and FrontEnd development</h3>
+<h3 align="center">Always looking for new challenges. Crazy about UX/UI and FrontEnd development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliomaas&label=Profile%20views&color=0e75b6&style=flat" alt="cliomaas" /> </p>
 
